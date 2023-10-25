@@ -23,7 +23,6 @@ const onAuthenticationFailure = () =>
     }).then((response) => response.accessToken)
 
 const twitchJs = new TwitchJs({
-    // token: 'pxwtsrc5tnxm9gvpdg9czj52k57qq5'
     clientId: "",
     token: '',
     username: "",
