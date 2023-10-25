@@ -1,6 +1,6 @@
 # Vivy: Your AI VTuber
 
-![Vivy chilling]([http://url/to/img.png](https://vivy.club/desk.jpg))
+![Vivy chilling](https://vivy.club/desk.jpg)
 
 Welcome to Vivy! Dive into a world where you can interact, chat, and meet your very own AI VTuber. Vivy is not just any digital companion; she's an AI Waifu with depth, emotion, and spontaneity, all thanks to the power of GPT-4. Inspired by the songstress AI from "Vivy: Fluorite Eye's Song", this project combines state-of-the-art text-to-speech synthesis with Vtuber animations to bring Vivy to life.
 
