@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "allowJs": false,
+    "target": "esnext",
+    "noImplicitAny": true,
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "importHelpers": true,
+    "outDir": "dist",
+    "baseUrl": ".",
+    "strict": false,
+    "noEmit": true,
+    "paths": {
+      "*": [
+        "node_modules/*"
+      ]
+    }
+  },
+  "include": [
+    "faction/**/*"
+  ],
+  "extends": "fakeyou.ts/tsconfig.recommended.json"
+}
