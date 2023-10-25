@@ -15,7 +15,7 @@ Welcome to Vivy! Dive into a world where you can interact, chat, and meet your v
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/vivy.git
+   git clone https://github.com/vivyclub/vivy.git
    cd vivy
    ```
 
@@ -60,6 +60,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Acknowledgements
 - Special thanks to OpenAI for the GPT-4 model.
 - Inspired by "Vivy: Fluorite Eye's Song".
+- FakeYou's voice tacotron API
 - Community contributors and supporters.
 
 ---
