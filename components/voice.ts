@@ -38,11 +38,6 @@ import { pipeline } from 'stream';
 //     }
 // }
 
-// const fakeYouClient = new Client();
-// fakeYouClient.login({
-//     username: "textbyjohnny@gmail.com",
-//     password: "Johnnyboy1"
-// })
 
 const cookie = ""
 
